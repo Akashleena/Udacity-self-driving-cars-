@@ -1,0 +1,6 @@
+[submodule "Lesson 4 Computer Vision Fundamentals/opencv-gui-parameter-tuner"]
+	path = Lesson 4 Computer Vision Fundamentals/opencv-gui-parameter-tuner
+	url = https://github.com/maunesh/opencv-gui-parameter-tuner
+[submodule "Lesson 4 Computer Vision Fundamentals/opencv-gui-helper-tool"]
+	path = Lesson 4 Computer Vision Fundamentals/opencv-gui-helper-tool
+	url = https://github.com/maunesh/opencv-gui-helper-tool
